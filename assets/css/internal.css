@@ -8,7 +8,8 @@
 .s-wrapper {
   display: flex;
   height: 100vh;
-  flex-flow: row nowrap; 
+  flex-flow: row nowrap;
+  background: black;
 }
 
 .s-wrapper video {
