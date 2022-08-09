@@ -2,4 +2,4 @@
 Trabalhado desenvolvido durante as lives da DIO cujo tema foi Spider-Man no Multiverso. 
 Facilitadores:  Michele Ambrosio & Diogo Mainardes.
 
-https://juniorvaldir.github.io/dio-spider-man-multiverso/
+
